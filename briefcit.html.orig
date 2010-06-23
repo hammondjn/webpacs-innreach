@@ -1,0 +1,60 @@
+<!-- Rel 2007 "Skyline" Example Set -->
+<!-- This File Last Changed: 01 July 2008 -->
+<<<<<<< HEAD
+
+        
+            <tr class="briefCitRow">
+                <td width="5%" align="center" class="briefcitEntry" >
+                    <div class="briefcitEntryNum">
+=======
+<tr>
+<td class="briefCitRow" colspan="3">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td width="5%" align="center" class="briefcitEntry" >
+<div class="briefcitEntryNum">
+>>>>>>> issnbriefcit
+<!--{entrynum}-->
+                    </div>
+                    <div class="briefcitMedia">
+<!--{media}-->
+                    </div>
+<!--{mark}-->
+                </td>
+                <td align="left" class="briefcitDetail">
+<!--{nohitmsg}-->
+                    <span class="briefcitTitle">
+<!--{linkfieldspec:Vbt245ab}-->
+                    </span>
+                    <br />
+<!--{fieldspec:Vba}-->
+                    <br />
+<!--{fieldspec:Vbp}-->
+                    <div>
+<!--{year}-->
+                    </div>
+                    <div class="briefcitRequest">
+<!--{request}-->
+                    </div>
+                    <span class="briefcitStatus">
+<!--{holds}-->
+                    </span>
+<!--
+                    <div class="briefcitActions">                      
+<!--{856link}-->
+<!--{ifmulti856}-->
+                        &nbsp;
+<!--{more856}-->
+<!--{xif}-->
+<!--{962link}-->
+<!--{ifmulti962}-->
+                        &nbsp;
+<!--{more962}-->
+<!--{xif}-->
+                    </div>
+-->                    
+                </td>
+                <td align="center" width="5%">
+<!--{bookjacket}-->
+                </td>
+            </tr>
